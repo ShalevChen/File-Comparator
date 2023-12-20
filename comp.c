@@ -4,8 +4,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <fcntl.h>
-//יובל חג'בי - 207797424
-//חן שלו- 313584906
+
 int main(int argc, char* argv[]) {
 	if (argc != 3) {
 		exit(1);
